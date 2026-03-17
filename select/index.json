@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "風若吹",
+  "base_artist": "五月天",
+  "createdAt": "2026-03-17T19:01:17.212770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風若吹",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/01_風若吹_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風若吹",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/02_風若吹_五月天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風若吹",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/pl_01_風若吹_Mayday.txt"
+    }
+  ]
+}
